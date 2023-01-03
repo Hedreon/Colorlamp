@@ -4,4 +4,4 @@
     <img src="assets/favicon.ico" />
 </p>
 
-<h3 align="center">An experimental color picker <a href="https://hedreon.github.io/colorlamp">website</a></h3>
+<h3 align="center">An experimental color picker <a href="https://hedreon.github.io/Colorlamp">website</a></h3>
