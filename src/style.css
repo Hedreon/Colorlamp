@@ -1,0 +1,26 @@
+* {
+    transition: all 0.2s;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;  /* Horizontally center the child elements */
+}
+
+.color {
+    border: none;
+    border-bottom-right-radius: 1vw;
+    border-bottom-left-radius: 1vw;
+    width: 12.5%;
+    height: 5vh;
+    text-align: center;
+    font-size: 1.5vw; /* This sets the font size to 2% of the viewport width */
+    background: lightgray;
+    display: block;
+}
