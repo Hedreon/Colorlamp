@@ -24,7 +24,3 @@ body {
     background: lightgray;
     display: block;
 }
-
-noscript {
-    font-weight: bold;
-}
