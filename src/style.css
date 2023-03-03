@@ -3,24 +3,20 @@
 }
 
 body {
-    margin: 0;
     overflow: hidden;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.container {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
 }
 
-.color {
+.field {
     border: none;
     border-bottom-right-radius: 1vw;
     border-bottom-left-radius: 1vw;
-    width: 12.5%;
-    height: 5vh;
+    width: 17.5%;
+    height: 6vh;
     text-align: center;
     font-size: 1.5vw;
     background: lightgray;
-    display: block;
+    font-weight: 600;
 }
